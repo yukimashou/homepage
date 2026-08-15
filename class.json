@@ -1,0 +1,17 @@
+{
+  "levels": ["All", "Beginner", "Intermediate", "Everyone"],
+  "levelColors": {
+    "Beginner": "#2BB6A8",
+    "Intermediate": "#8A6FC7",
+    "Everyone": "#FF7A59",
+    "Advanced": "#3B4A7C"
+  },
+  "classes": [
+    { "name": "Japanese Language Classes", "jp": "日本語を学ぶ会", "level": "Everyone", "time": "Sat · 13:00–15:00", "place": "Fukuoka International Exchange Foundation (FIEF)", "emoji": "🌸", "tint": "#FFEAD6" },
+    { "name": "Conversation Café", "jp": "日本語カフェ 水曜よふかし", "level": "Everyone", "time": "Wed · 19:00–20:30", "place": "Fukuoka City International Center", "emoji": "☕", "tint": "#E7F7F4" },
+    { "name": "JLPT N2 Prep", "jp": "試験対策クラス", "level": "Intermediate", "time": "1st and 4th Thu · 21:00–22:00(JST)", "place": "Online", "emoji": "💻", "tint": "#EFE6FB" },
+    { "name": "Conversation Cafe", "jp": "わくわく森のにじ会", "level": "Everyone", "time": "3rd Thu · 21:00–22:15(JST)", "place": "Online", "emoji": "💻", "tint": "#FFF6DE" },
+    { "name": "Business Japanese Classes", "jp": "ビジネス日本語クラス", "level": "Advanced", "time": "Sat · 14:30–17:30(JST)", "place": "Online", "emoji": "💻", "tint": "#EFE6FB" },
+    { "name": "Japanese language classes taught by volunteers", "jp": "", "level": "Everyone", "time": "", "place": "Fukuoka City", "emoji": "💼", "tint": "#EFE6FB" }
+  ]
+}

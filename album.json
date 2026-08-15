@@ -1,0 +1,10 @@
+{
+  "sectionTitle": "Moments from our community",
+  "photos": [
+    { "id": "conversation-cafe", "caption": "photo · conversation café", "image": "album/conversation-cafe.jpg", "tint": "#FFD3B8" },
+    { "id": "seminar",           "caption": "seminar",                   "image": "album/seminar.jpg",           "tint": "#C3E8E2" },
+    { "id": "city-walk",         "caption": "city walk",                 "image": "album/city-walk.jpg",         "tint": "#FFE7A8" },
+    { "id": "culture-day",       "caption": "culture day",               "image": "album/culture-day.jpg",       "tint": "#DACBEF" },
+    { "id": "study-group",       "caption": "study group",               "image": "album/study-group.jpg",       "tint": "#FFC7BD" }
+  ]
+}

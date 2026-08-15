@@ -1,0 +1,21 @@
+{
+  "site": {
+    "name": "Team yukimashou",
+    "badge": "🌱 Japanese community in Fukuoka",
+    "heading": "Let's go, together.",
+    "tagline": "A volunteer team helping foreign residents and international students settle in and learn Japanese — through friendly seminars, conversation classes and community in Fukuoka.",
+    "taglineJp": "福岡で日本語と友だちが見つかる、ボランティアチームです。",
+    "heroImage": "hero/hero-group-photo.jpg",
+    "about": "“Team-Yukimashou!” is run by Japanese members and volunteers who were once newcomers to Japan themselves. We offer free and low-cost seminars and Japanese classes to make your life in Fukuoka feel a little warmer."
+  },
+  "contact": {
+    "email": "hello@yukimashou.jp",
+    "line": "@yukimashou",
+    "instagram": "@team.yukimashou",
+    "location": "Hakata, Fukuoka"
+  },
+  "footer": {
+    "copyright": "© 2026 Team yukimashou · Volunteer group in Fukuoka",
+    "credit": "Made with care by volunteers · ボランティア一同"
+  }
+}
